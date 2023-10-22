@@ -6,3 +6,6 @@ It also works in older versions (Nav 2009) in the object designer. You can save 
 Once you save the clipboard data to a file, you can load back from the file in the future and insert functions, variables, etc. back to Nav.
 
 The program also allows you to convert Nav clipboard data into BASE64 format on the fly for text sharing.
+
+
+Watch [Releases](https://github.com/0xf1/navclipbrd/releases/) section to download the app.
