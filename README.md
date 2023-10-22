@@ -1,5 +1,5 @@
-# navclipbrd
-Dynamics Nav Clipboard Manager
+# Dynamics Nav Clipboard Manager
+
 
 The program allows you to save copied C\AL functions, variables, fields from the page/table designer/etc., objects from the Development Environment, data from tables and everything that can be copied and pasted from/to Nav to a file.
 It also works in older versions (Nav 2009) in the object designer. You can save form controls, buttons, etc. to a file. for further reuse.
